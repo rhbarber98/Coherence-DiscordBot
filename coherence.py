@@ -1,6 +1,6 @@
 # Coherence
 # ------
-# A Discord chatbot by rhbarber98
+# A logical Discord chatbot by rhbarber98
 
 import discord
 
