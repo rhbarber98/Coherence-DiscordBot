@@ -1,0 +1,7 @@
+# API token configuration file for local deployments
+
+# This file is for configuring your Discord API token when deployed to a local environment.
+# You should enter your token below, replacing "Your Discord API Token" with the token from your Discord developers dashboard.
+# Only modify the token, as modification of the variable name itself will result in an error at runtime.
+
+API_KEY = 'Your Discord API Token'
