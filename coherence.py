@@ -32,7 +32,7 @@ async def on_message(message):
 # Edit the 'startswith' and 'send' strings to include your own commands and responses. Copy and paste the code block below to add more commands.
 
     if message.content.startswith('?ping'):
-        await message.channel.send('Pong! Bot is operational.')
+        await message.channel.send('Pong! Coherence is operational!')
         await message.delete()
 
 # API Token Variable. Do NOT edit the below line.
