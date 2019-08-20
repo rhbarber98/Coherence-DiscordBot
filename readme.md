@@ -1,4 +1,4 @@
-![Logo](images/logo.png)
+![Logo](images/banner2.png)
 
 # Coherence
 ### A logical Discord bot based on Discord.py
