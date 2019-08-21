@@ -1,4 +1,4 @@
-# Coherence
+# Coherence v1.1.0
 # A logical Discord chatbot by rhbarber98
 # ------
 
