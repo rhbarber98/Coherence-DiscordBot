@@ -3,8 +3,6 @@
 # Coherence
 ### A logical Discord bot based on Discord.py
 
-[![Build Status](https://travis-ci.org/rhbarber98/Coherence-DiscordBot.svg?branch=master)](https://travis-ci.org/rhbarber98/Coherence-DiscordBot)
-
 ## Introduction
 
 Coherence is an ultra-simple Discord bot written on the Discord.py API wrapper. Coherence takes simple chat commands as input and delivers static responses.
