@@ -1,9 +1,9 @@
 ![Logo](images/banner2.png)
 
-[![Build Status](https://travis-ci.org/rhbarber98/Coherence-DiscordBot.svg?branch=master)](https://travis-ci.org/rhbarber98/Coherence-DiscordBot)
-
 # Coherence
 ### A logical Discord bot based on Discord.py
+
+[![Build Status](https://travis-ci.org/rhbarber98/Coherence-DiscordBot.svg?branch=master)](https://travis-ci.org/rhbarber98/Coherence-DiscordBot)
 
 ## Introduction
 
