@@ -5,9 +5,9 @@
 
 ## Introduction
 
-Coherence is an ultra-simple Discord chatbot written on the Discord.py API wrapper. Coherence takes simple chat commands as input and delivers static responses in the text channel.
+Coherence is an ultra-simple Discord bot written on the Discord.py API wrapper. Coherence takes simple chat commands as input and delivers static responses.
 
-Commands can easily be edited to your liking using a text editor, and installation is fast and easy to do on any Windows or MacOS/Unix system.
+Commands can easily be edited using a text editor, and installation is fast and easy to do on any Windows or MacOS/Unix system.
 
 If you need additional assistance, please contact us through our [Official Discord Server](https://discord.gg/Wg4r2hh) using the #support channel and a member of our community will be happy to assist.
 
